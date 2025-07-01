@@ -1,4 +1,7 @@
-﻿namespace CompanyEmployees.Extensions
+﻿using Contracts;
+using LoggerService;
+
+namespace CompanyEmployees.Extensions
 {
 	public static class ServiceExtensions {
 
@@ -12,5 +15,9 @@
 
 		public static void ConfigureIISIntegration(this IServiceCollection services) =>
             services.Configure<IISOptions>(options => { });
+
+		public static void ConfigureloggerService(this IServiceCollection services)=>
+            services.AddScoped<ILoggerManager, LoggerManager>();
+
 	}
 }
