@@ -355,3 +355,27 @@
 2025-07-02 15:41:32.1827 Info Adding target FileTarget(Name=logfile)
 2025-07-02 15:41:32.1827 Info Adding target ConsoleTarget(Name=logconsole)
 2025-07-02 15:41:32.2155 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=35, FilePath=F:\GitPersonal\CompanyEmployees\CompanyEmployees\CompanyEmployees\nlog.config
+2025-07-07 16:19:49.1015 Info Message Template Auto Format enabled
+2025-07-07 16:19:49.1651 Info Adding target FileTarget(Name=logfile)
+2025-07-07 16:19:49.1651 Info Adding target ConsoleTarget(Name=logconsole)
+2025-07-07 16:19:49.1863 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=35, FilePath=F:\GitPersonal\CompanyEmployees\CompanyEmployees\CompanyEmployees\nlog.config
+2025-07-07 16:19:52.2097 Info AppDomain Shutting down. LogFactory closing...
+2025-07-07 16:19:52.2097 Info LogFactory has been closed.
+2025-07-07 16:57:13.8266 Info Message Template Auto Format enabled
+2025-07-07 16:57:13.8692 Info Adding target FileTarget(Name=logfile)
+2025-07-07 16:57:13.8692 Info Adding target ConsoleTarget(Name=logconsole)
+2025-07-07 16:57:13.8820 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=35, FilePath=F:\GitPersonal\CompanyEmployees\CompanyEmployees\CompanyEmployees\nlog.config
+2025-07-07 16:57:16.1129 Info AppDomain Shutting down. LogFactory closing...
+2025-07-07 16:57:16.1129 Info LogFactory has been closed.
+2025-07-07 17:22:04.9088 Info Message Template Auto Format enabled
+2025-07-07 17:22:04.9472 Info Adding target FileTarget(Name=logfile)
+2025-07-07 17:22:04.9472 Info Adding target ConsoleTarget(Name=logconsole)
+2025-07-07 17:22:04.9651 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=35, FilePath=F:\GitPersonal\CompanyEmployees\CompanyEmployees\CompanyEmployees\nlog.config
+2025-07-07 17:22:05.8776 Info AppDomain Shutting down. LogFactory closing...
+2025-07-07 17:22:05.8863 Info LogFactory has been closed.
+2025-07-07 17:26:16.1859 Info Message Template Auto Format enabled
+2025-07-07 17:26:16.2273 Info Adding target FileTarget(Name=logfile)
+2025-07-07 17:26:16.2273 Info Adding target ConsoleTarget(Name=logconsole)
+2025-07-07 17:26:16.2457 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=35, FilePath=F:\GitPersonal\CompanyEmployees\CompanyEmployees\CompanyEmployees\nlog.config
+2025-07-07 17:26:17.0502 Info AppDomain Shutting down. LogFactory closing...
+2025-07-07 17:26:17.0583 Info LogFactory has been closed.
